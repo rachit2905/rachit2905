@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rachit2905](https://github.com/rachit2905)
 
-- 💬 Ask me about **SpringBoot,Flutter,REST**
+- 💬 Ask me about **SpringBoot,Flutter,REST APIs,Django**
 
 - 📫 How to reach me **rachit2905jain@gmail.com**
 

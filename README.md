@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit2905" alt="rachit2905" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Java Springboot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rachit2905](https://github.com/rachit2905)
 
-- 💬 Ask me about **SpringBoot,Flutter,REST APIs,Django**
+- 💬 Ask me about **SpringBoot,Flutter,REST APIs,Java,C++,Backend Development**
 
 - 📫 How to reach me **rachit2905jain@gmail.com**
 
